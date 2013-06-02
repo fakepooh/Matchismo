@@ -23,6 +23,7 @@
 		75345BA8175A130C00538747 /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = 75345BA7175A130C00538747 /* PlayingCard.m */; };
 		75345BAB175A160500538747 /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = 75345BAA175A160500538747 /* PlayingCardDeck.m */; };
 		75345BAE175A1FB300538747 /* CardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 75345BAD175A1FB300538747 /* CardMatchingGame.m */; };
+		75345BB2175B7D3D00538747 /* cardback.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 75345BB1175B7D3D00538747 /* cardback.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		75345BAA175A160500538747 /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PlayingCardDeck.m; path = Model/PlayingCardDeck.m; sourceTree = "<group>"; };
 		75345BAC175A1FB300538747 /* CardMatchingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CardMatchingGame.h; path = Model/CardMatchingGame.h; sourceTree = "<group>"; };
 		75345BAD175A1FB300538747 /* CardMatchingGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CardMatchingGame.m; path = Model/CardMatchingGame.m; sourceTree = "<group>"; };
+		75345BB1175B7D3D00538747 /* cardback.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cardback.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				75345B9417597A8A00538747 /* MainStoryboard.storyboard */,
 				75345B9717597A8A00538747 /* CardGameViewController.h */,
 				75345B9817597A8A00538747 /* CardGameViewController.m */,
+				75345BB1175B7D3D00538747 /* cardback.jpg */,
 				75345BA2175A0ECE00538747 /* Model */,
 				75345B8317597A8A00538747 /* Supporting Files */,
 			);
@@ -197,6 +200,7 @@
 				75345B9117597A8A00538747 /* Default@2x.png in Resources */,
 				75345B9317597A8A00538747 /* Default-568h@2x.png in Resources */,
 				75345B9617597A8A00538747 /* MainStoryboard.storyboard in Resources */,
+				75345BB2175B7D3D00538747 /* cardback.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
